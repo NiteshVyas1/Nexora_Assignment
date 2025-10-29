@@ -3,31 +3,16 @@
 A full-stack shopping cart web app built for **Vibe Commerce internship screening**.  
 It demonstrates modern **React + Tailwind CSS (Frontend)** and **Node.js + Express + MongoDB (Backend)** integration with CRUD APIs, mock checkout, and responsive UI.
 
+<img width="1476" height="885" alt="image" src="https://github.com/user-attachments/assets/22d58477-6b72-4881-8d62-f7d3484b4fa2" />
+<img width="1453" height="480" alt="image" src="https://github.com/user-attachments/assets/cdeb8e7c-feaf-457c-944a-11c83a7a5e82" />
+
+
 ---
 
 ## 📂 Project Structure
 
-├── backend/
-│ ├── models/
-│ │ ├── Product.js
-│ │ └── CartItem.js
-│ ├── routes/
-│ │ ├── products.js
-│ │ └── cart.js
-│ ├── seed.js
-│ └── server.js
-│
-├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── App.js
-│ │ ├── index.js
-│ │ └── index.css
-│ └── tailwind.config.js
-│
-├── .gitignore
-├── requirements.txt
-└── README.md
+<img width="268" height="550" alt="image" src="https://github.com/user-attachments/assets/d76368f4-c708-4185-9694-45d36cc68ff4" />
+
 
 
 
