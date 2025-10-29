@@ -1,0 +1,19 @@
+# ---- BACKEND DEPENDENCIES ----
+express==latest
+mongoose==latest
+dotenv==latest
+cors==latest
+morgan==latest
+body-parser==latest
+
+# ---- FRONTEND DEPENDENCIES ----
+react==latest
+react-dom==latest
+react-scripts==latest
+@tailwindcss/postcss==latest
+autoprefixer==latest
+postcss==latest
+tailwindcss==latest
+
+# ---- DEVELOPMENT UTILITIES ----
+nodemon==latest
